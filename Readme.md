@@ -32,12 +32,6 @@ Ngoài ra, script còn tự động điền chữ `"không"` vào tất cả cá
 
 ---
 
-## Giấy phép
-
-MIT License – Sử dụng tự do và chỉnh sửa.
-
----
-
 ## Liên hệ
 
 Nếu có thắc mắc hoặc góp ý, vui lòng mở issue trên GitHub.
